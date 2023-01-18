@@ -1,6 +1,6 @@
 var carta0 = {
  nome: "Titã de Ataque",
-  imagem : "http://pm1.narvii.com/6422/f504e1513622fb8afe7cc9474fe96566a01c184b_hq.jpg",
+  imagem : "https://nerdhits.com.br/wp-content/uploads/2022/05/eren-tita-ataque-attack-on-titan-1200x900.jpg",
   atributos: {
   ataque: 9,
   defesa: 7,
