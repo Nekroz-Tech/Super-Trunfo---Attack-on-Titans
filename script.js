@@ -1,6 +1,6 @@
 var carta0 = {
  nome: "Titã de Ataque",
-  imagem : "https://pbs.twimg.com/media/Exl0FWzWUAE-bsH.jpg",
+  imagem : "http://pm1.narvii.com/6422/f504e1513622fb8afe7cc9474fe96566a01c184b_hq.jpg",
   atributos: {
   ataque: 9,
   defesa: 7,
